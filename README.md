@@ -2,6 +2,8 @@
 
 This repository is based on the freeCodeCamp courses: [1](https://github.com/nickmccullum/algorithmic-trading-python), [2](https://github.com/Luchkata/Algorithmic_Trading_Machine_Learning/tree/main)
 
+The financial data in this project is real data retrieved from Yahoo! Finance via the yfinance library.
+
 ## Sections
 
 * Section 1: Building An Equal-Weight S&P 500 Index Fund
