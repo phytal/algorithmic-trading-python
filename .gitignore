@@ -3,3 +3,6 @@ algorithmic-trading/
 .DS_Store
 __pycache__
 venv/
+**/trades.xlsx
+**/momentum_strategy.xlsx
+**/value_strategy.xlsx
