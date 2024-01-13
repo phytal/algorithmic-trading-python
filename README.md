@@ -27,7 +27,8 @@ This part of the project is based on the [freeCodeCamp course](https://github.co
 4. Calculate Monthly Returns for different time horizons as additional features.
 5. Download Fama-French Factors and Calculate Rolling Factor Betas.
 6. Fit each month to a K-Means Clustering Algorithm to group similar stocks based on their RSI and ATR.
-7. For each month, select stocks based on the cluster and form a portfolio based on Efficient Frontier max sharpe ratio optimization 
+7. For each month, select stocks based on the cluster and form a portfolio with Max Sharpe Ratio Optimization.
+8. Visualize portfolio returns and compare to S&P 500 returns.
 
 
 ## Remarks
